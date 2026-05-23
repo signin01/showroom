@@ -1,0 +1,12 @@
+﻿node_modules/
+backend/node_modules/
+frontend/node_modules/
+payment/node_modules/
+.env
+.DS_Store
+*.log
+dist/
+build/
+.vite/
+.cache/
+uploads/
